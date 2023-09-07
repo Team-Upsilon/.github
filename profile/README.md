@@ -73,14 +73,14 @@ To get started with Pharmaverse, follow these steps:
 
 Pharmaverse comprises eight smart contracts, each responsible for a specific aspect of the medicine production process. These contracts include:
 
-- `RawMaterialInventory.sol`
+- `AdminContract.sol`
+- `InventoryContract.sol`
 - `SupplierContract.sol`
 - `TransporterContract.sol`
 - `InspectorContract.sol`
 - `BatchScheduling.sol`
-- `ManufacturingStage1.sol`
-- `ManufacturingStage2.sol`
-- `ManufacturingStage3.sol`
+- `ManufacturerContract.sol`
+- `RealTimeMonitoring.sol`
 
 Each contract handles its unique set of functionalities, contributing to the overall efficiency and transparency of the system.
 
