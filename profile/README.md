@@ -1,3 +1,5 @@
+<img width="453" alt="logoPharma" src="https://github.com/Team-Upsilon/.github/assets/103581884/3b87a7d7-5310-4c13-9057-dc8f1d6e06d6">
+
 # Pharmaverse - Decentralized Medicine Production Tracking App
 
 Pharmaverse is a decentralized blockchain application designed to streamline and enhance the production and tracking of medicines. This open-source project utilizes blockchain technology and smart contracts to maintain transparency and accountability throughout the medicine production process. With eight smart contracts at its core, Pharmaverse ensures the efficient management of raw materials, quality inspection, batch scheduling, and distribution.
