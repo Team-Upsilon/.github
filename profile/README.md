@@ -1,4 +1,4 @@
-<img width="453" alt="logoPharma" src="https://github.com/Team-Upsilon/.github/assets/103581884/3b87a7d7-5310-4c13-9057-dc8f1d6e06d6">
+![pharmaVerse](https://github.com/Team-Upsilon/.github/assets/103581884/4c0dcc83-d591-4f26-80b0-3913e7de5788)
 
 # Pharmaverse - Decentralized Medicine Production Tracking App
 
